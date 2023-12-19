@@ -1,0 +1,17 @@
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\bin\Debug\net8.0-windows\OrnekProje.exe
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\bin\Debug\net8.0-windows\OrnekProje.deps.json
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\bin\Debug\net8.0-windows\OrnekProje.runtimeconfig.json
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\bin\Debug\net8.0-windows\OrnekProje.dll
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\bin\Debug\net8.0-windows\OrnekProje.pdb
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\OrnekProje.Form1.resources
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\OrnekProje.csproj.GenerateResource.cache
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\OrnekProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\OrnekProje.AssemblyInfoInputs.cache
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\OrnekProje.AssemblyInfo.cs
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\OrnekProje.csproj.CoreCompileInputs.cache
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\OrnekProje.dll
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\refint\OrnekProje.dll
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\OrnekProje.pdb
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\OrnekProje.genruntimeconfig.cache
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\ref\OrnekProje.dll
+C:\YapilanProjeler\Devenv\OrnekProje\OrnekProje\obj\Debug\net8.0-windows\OrnekProje.Form2.resources
